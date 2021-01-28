@@ -38,15 +38,15 @@
 	</Offset>
 	<Offset>
 		<name>m_dwLocalPlayer</name>
-		<value>0xD892AC</value>
+		<value>0xD8A2BC</value>
 	</Offset>
 	<Offset>
 		<name>m_dwEntityList</name>
-		<value>0x4DA0D54</value>
+		<value>0x4DA1F24</value>
 	</Offset>
 	<Offset>
 		<name>m_dwGlowObject</name>
-		<value>0x52E9348</value>
+		<value>0x52EA520</value>
 	</Offset>
 	<Offset>
 		<name>m_iClip</name>
