@@ -42,11 +42,11 @@
 	</Offset>
 	<Offset>
 		<name>m_dwEntityList</name>
-		<value>0x4DA2F54</value>
+		<value>0x4DA2F44</value>
 	</Offset>
 	<Offset>
 		<name>m_dwGlowObject</name>
-		<value>0x52EB558</value>
+		<value>0x52EB540</value>
 	</Offset>
 	<Offset>
 		<name>m_iClip</name>
