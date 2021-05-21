@@ -18,7 +18,7 @@
 	</Offset>
 	<Offset>
 		<name>m_iGlowIndex</name>
-		<value>0xA438</value>
+		<value>0xA420</value>
 	</Offset>
 	<Offset>
 		<name>m_iHealth</name>
@@ -38,15 +38,15 @@
 	</Offset>
 	<Offset>
 		<name>m_dwLocalPlayer</name>
-		<value>0xD8C2CC</value>
+		<value>0xD8E2CC</value>
 	</Offset>
 	<Offset>
 		<name>m_dwEntityList</name>
-		<value>0x4DA3F5C</value>
+		<value>0x4DA720C</value>
 	</Offset>
 	<Offset>
 		<name>m_dwGlowObject</name>
-		<value>0x52EC550</value>
+		<value>0x52EF6C8</value>
 	</Offset>
 	<Offset>
 		<name>m_iClip</name>
