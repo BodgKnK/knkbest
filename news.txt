@@ -1,6 +1,4 @@
-Cheat Update .                               
--Fixed Database Bug 
--Add New Bypass to Avoid New VAC System 
-- Fixed Sign Up 
-- Add New Form 
+Fixed ESP 
+Fixed MSC 
+Offsets Update (Game Update)
 
